@@ -1,2 +1,2 @@
 # python
-work on python
+learning python
